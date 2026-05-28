@@ -267,7 +267,7 @@ flutter test
 
 ---
 # Funcionamento Sem Internet
-- busca os dados do hive
+- busca os dados do hive qdo off
 
 
 
