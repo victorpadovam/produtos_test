@@ -266,6 +266,16 @@ flutter test
 | 3.27.1  | stable  | 3.6.0 | Dec 16, 2024 |
 
 ---
+# Funcionamento Sem Internet
+- busca os dados do hive
+
+
+
+https://github.com/user-attachments/assets/2a5d0121-ed51-411e-862d-51d70c5476bb
+
+
+
+---
 
 # Pritins do APP - LoginPage
 
