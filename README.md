@@ -255,7 +255,7 @@ flutter run -t lib/app/flavors/main_prod.dart
 ```bash
 flutter test
 ```
-<img src="https://i.ibb.co/wNLPSgBn/Captura-de-Tela-2026-05-28-a-s-15-38-28.png" width="128"/>
+<img src="https://i.ibb.co/wNLPSgBn/Captura-de-Tela-2026-05-28-a-s-15-38-28.png" width="400"/>
 
 ---
 
