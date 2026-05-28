@@ -1,0 +1,9 @@
+{
+  "@@locale": "pt",
+
+  "login": "Entrar",
+  "email": "E-mail",
+  "password": "Senha",
+  "products": "Produtos",
+  "logout": "Sair"
+}
