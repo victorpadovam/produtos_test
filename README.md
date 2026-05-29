@@ -277,14 +277,14 @@ https://github.com/user-attachments/assets/2a5d0121-ed51-411e-862d-51d70c5476bb
 
 ---
 
-# Pritins do APP - LoginPage
+# Prints do APP - LoginPage
 
 <img src="https://i.ibb.co/kVsP8nQ3/Captura-de-Tela-2026-05-28-a-s-15-41-08.png" width="128"/>
 
 
 ---
 
-# Pritins do APP - Produto
+# Prints do APP - Produto
 
 <img src="https://i.ibb.co/hx3M3638/Captura-de-Tela-2026-05-28-a-s-15-42-31.png" width="128"/>
 
@@ -293,7 +293,7 @@ https://github.com/user-attachments/assets/2a5d0121-ed51-411e-862d-51d70c5476bb
 
 ---
 
-# Pritins do APP - Detalhes
+# Prints do APP - Detalhes
 
 <img src="https://i.ibb.co/93bZgTvC/Captura-de-Tela-2026-05-28-a-s-15-43-11.png" width="128"/>
 
