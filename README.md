@@ -230,7 +230,7 @@ ou
 flutter pub run build_runner build --delete-conflicting-outputs
 ```
 
-## Gerar app_localizations - interncionalizao
+## Gerar app_localizations - Internacionalização
 ```bash
 flutter gen-l10n
 ```
