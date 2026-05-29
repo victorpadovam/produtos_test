@@ -230,6 +230,11 @@ ou
 flutter pub run build_runner build --delete-conflicting-outputs
 ```
 
+## Gerar app_localizations - interncionalizao
+```bash
+flutter gen-l10n
+```
+
 ---
 
 # Rodar Ambiente DEV
